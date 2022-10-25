@@ -15,6 +15,8 @@ A backend that serves API endpoints and does data management for an E-Commerce A
 `git clone git@github.com:wlk-dev/e-commerce-backend.git`
 ## Usage
 Initialize the database with the provided schema, then `node server.js`.
+
+A demo video can be found [here.](https://youtu.be/rCut7tF8Azg)
 ## License
 This project is covered under the [MIT](https://opensource.org/licenses/MIT) license.
 ## Contribution Guidelines
